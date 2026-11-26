@@ -15,7 +15,7 @@ export default function ComponentsLayout({ children }: LayoutProps<"/components"
 				actions={
 					<Link href="/" className={buttonStyles({ size: "sm" })}>
 						<ArrowLeft />
-						<span className="hidden sm:inline">Back to Companion</span>
+						<span className="hidden sm:inline">Back to Ariadne</span>
 					</Link>
 				}
 			/>

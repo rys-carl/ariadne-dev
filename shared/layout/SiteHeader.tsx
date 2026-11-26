@@ -51,7 +51,7 @@ export default function SiteHeader({ search, actions, overlay = false }: SiteHea
 						<Gamepad2 className="size-4.5" aria-hidden />
 					</span>
 					<span className={cn("text-sm font-semibold tracking-tight text-text-900", search ? "hidden sm:inline" : "inline")}>
-						Gaming Guide Companion
+						Ariadne
 					</span>
 				</Link>
 

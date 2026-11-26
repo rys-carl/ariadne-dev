@@ -24,7 +24,7 @@ export default function NotFound({
 			message={message}
 			actions={
 				<Link href="/" className={buttonStyles()}>
-					Back to Gaming Guide Companion
+					Back to Ariadne
 				</Link>
 			}
 			links={[

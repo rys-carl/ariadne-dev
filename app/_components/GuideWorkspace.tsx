@@ -58,6 +58,7 @@ export function GuideWorkspace() {
 		<main className="mx-auto w-full max-w-3xl flex-1 px-4 py-8 sm:px-6 sm:py-12">
 			{/* Intro */}
 			<section className="space-y-3">
+				<p className="text-sm font-medium text-brand-fg">Your guide through every quest.</p>
 				<Typography variant="h2" as="h1" className="text-3xl font-bold tracking-tight sm:text-4xl">
 					Your guide. Your progress. Your game.
 				</Typography>

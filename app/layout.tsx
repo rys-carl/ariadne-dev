@@ -5,9 +5,9 @@ import { appFont } from "@/shared/fonts";
 import { themeInitScript } from "@/shared/lib/theme";
 
 export const metadata: Metadata = {
-  title: "Gaming Guide Companion",
+  title: "Ariadne — Your guide through every quest.",
   description:
-    "Turn long game guides into clear, actionable steps. Stay focused on your game and keep track of your progress.",
+    "Turn lengthy game guides into clear, actionable instructions. Stay focused on your game and keep track of your progress.",
 };
 
 export default function RootLayout({

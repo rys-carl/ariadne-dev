@@ -114,7 +114,7 @@ export function StatusScreen({
 					<span className="flex size-8 items-center justify-center rounded-lg bg-brand-subtle text-brand-fg ring-1 ring-inset ring-brand/20">
 						<Gamepad2 className="size-4.5" aria-hidden />
 					</span>
-					<span className="text-sm font-semibold tracking-tight text-text-900">Gaming Guide Companion</span>
+					<span className="text-sm font-semibold tracking-tight text-text-900">Ariadne</span>
 				</Link>
 			</div>
 			<main className="flex flex-1 flex-col pb-16">{body}</main>
